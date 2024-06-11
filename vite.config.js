@@ -30,9 +30,9 @@ export default defineConfig(({ command, mode }) => {
     },
     server: {
       proxy: {
-        [env.VITE_APP_BASE_API]: {
+        "/api": {
           //获取服务器地址设置
-          target: env.VITE_SERVE,
+          target: 'http://sph-api.atguigu.cn/',
           //是否需要代理跨域
           changeOrigin: true,
           //路径重写
