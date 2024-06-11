@@ -7,8 +7,8 @@ import useUserStore from '@/store/modules/user';
 //1.利用axios对象的create方法创建实例对象
 let request = axios.create({
     //基础路径
-    // baseURL: '/api',
-    baseURL: import.meta.env.VITE_APP_BASE_API,
+    baseURL: '/api',
+    //baseURL: import.meta.env.VITE_APP_BASE_API,
     timeout: 5000,//超时时间
     // responseType: 'json' ,
 });
