@@ -1,0 +1,502 @@
+
+st_juno_angel.png
+size: 2045,2035
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ahoge
+  rotate: true
+  xy: 2, 1806
+  size: 139, 147
+  orig: 139, 147
+  offset: 0, 0
+  index: -1
+arm_L
+  rotate: true
+  xy: 384, 1897
+  size: 78, 119
+  orig: 78, 119
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: false
+  xy: 801, 1742
+  size: 179, 149
+  orig: 179, 149
+  offset: 0, 0
+  index: -1
+arm_R_2
+  rotate: false
+  xy: 1057, 1884
+  size: 127, 90
+  orig: 127, 90
+  offset: 0, 0
+  index: -1
+arm_R_B
+  rotate: false
+  xy: 239, 1979
+  size: 61, 54
+  orig: 61, 54
+  offset: 0, 0
+  index: -1
+bangs
+  rotate: false
+  xy: 588, 1343
+  size: 237, 215
+  orig: 237, 215
+  offset: 0, 0
+  index: -1
+bangs_s
+  rotate: false
+  xy: 827, 1343
+  size: 237, 215
+  orig: 237, 215
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 2, 1390
+  size: 210, 291
+  orig: 210, 291
+  offset: 0, 0
+  index: -1
+body_1_no_flower
+  rotate: true
+  xy: 295, 1370
+  size: 210, 291
+  orig: 210, 291
+  offset: 0, 0
+  index: -1
+body_frill
+  rotate: false
+  xy: 563, 1761
+  size: 236, 130
+  orig: 236, 130
+  offset: 0, 0
+  index: -1
+breast
+  rotate: true
+  xy: 1704, 1216
+  size: 255, 272
+  orig: 255, 272
+  offset: 0, 0
+  index: -1
+breast_no_flower
+  rotate: true
+  xy: 2, 1133
+  size: 255, 272
+  orig: 255, 272
+  offset: 0, 0
+  index: -1
+eff_a
+  rotate: false
+  xy: 1306, 1975
+  size: 130, 58
+  orig: 134, 66
+  offset: 0, 3
+  index: -1
+effect1_1
+  rotate: false
+  xy: 1194, 1704
+  size: 194, 156
+  orig: 202, 164
+  offset: 4, 3
+  index: -1
+effect1_2
+  rotate: true
+  xy: 1390, 1692
+  size: 164, 206
+  orig: 171, 214
+  offset: 4, 4
+  index: -1
+effect1_3
+  rotate: true
+  xy: 982, 1730
+  size: 150, 210
+  orig: 156, 218
+  offset: 3, 4
+  index: -1
+effect2_1
+  rotate: true
+  xy: 1348, 1862
+  size: 111, 112
+  orig: 120, 122
+  offset: 4, 5
+  index: -1
+effect2_2
+  rotate: true
+  xy: 1692, 877
+  size: 337, 349
+  orig: 357, 366
+  offset: 4, 6
+  index: -1
+effect2_3
+  rotate: false
+  xy: 1293, 988
+  size: 397, 250
+  orig: 428, 272
+  offset: 15, 12
+  index: -1
+effect2_4
+  rotate: false
+  xy: 780, 1016
+  size: 511, 245
+  orig: 544, 263
+  offset: 15, 12
+  index: -1
+effect2_5
+  rotate: false
+  xy: 692, 749
+  size: 402, 265
+  orig: 439, 306
+  offset: 21, 21
+  index: -1
+effect2_6
+  rotate: true
+  xy: 1598, 1684
+  size: 169, 326
+  orig: 181, 351
+  offset: 8, 12
+  index: -1
+effect2_7
+  rotate: true
+  xy: 2, 1602
+  size: 174, 297
+  orig: 183, 315
+  offset: 5, 6
+  index: -1
+effect2_8
+  rotate: false
+  xy: 1462, 1859
+  size: 114, 114
+  orig: 121, 125
+  offset: 3, 6
+  index: -1
+face_angry_eyebrows
+  rotate: false
+  xy: 1903, 1972
+  size: 140, 61
+  orig: 140, 61
+  offset: 0, 0
+  index: -1
+face_angry_mouth
+  rotate: false
+  xy: 101, 2013
+  size: 22, 20
+  orig: 25, 23
+  offset: 2, 1
+  index: -1
+face_normal_mouth
+  rotate: false
+  xy: 19, 2026
+  size: 20, 7
+  orig: 22, 9
+  offset: 1, 1
+  index: -1
+face_sad_eyebrows
+  rotate: false
+  xy: 1438, 1975
+  size: 153, 58
+  orig: 153, 58
+  offset: 0, 0
+  index: -1
+face_shy_blush
+  rotate: false
+  xy: 1865, 1855
+  size: 168, 115
+  orig: 168, 115
+  offset: 0, 0
+  index: -1
+face_shy_eyebrows
+  rotate: false
+  xy: 454, 1977
+  size: 157, 56
+  orig: 157, 56
+  offset: 0, 0
+  index: -1
+face_shy_mouth
+  rotate: false
+  xy: 71, 2018
+  size: 28, 15
+  orig: 31, 17
+  offset: 2, 1
+  index: -1
+face_smile_mouth
+  rotate: false
+  xy: 41, 2022
+  size: 28, 11
+  orig: 30, 13
+  offset: 1, 1
+  index: -1
+face_sp1_eyebrows
+  rotate: false
+  xy: 1593, 1975
+  size: 152, 58
+  orig: 152, 58
+  offset: 0, 0
+  index: -1
+face_sp1_eyes
+  rotate: false
+  xy: 655, 1893
+  size: 147, 81
+  orig: 147, 81
+  offset: 0, 0
+  index: -1
+face_sp1_mouth
+  rotate: false
+  xy: 125, 2011
+  size: 38, 22
+  orig: 41, 24
+  offset: 1, 1
+  index: -1
+face_sp2_eyebrows
+  rotate: false
+  xy: 1747, 1974
+  size: 154, 59
+  orig: 154, 59
+  offset: 0, 0
+  index: -1
+face_sp2_eyes
+  rotate: false
+  xy: 755, 1976
+  size: 139, 57
+  orig: 139, 57
+  offset: 0, 0
+  index: -1
+face_standard_eyebrows
+  rotate: false
+  xy: 2, 1947
+  size: 149, 62
+  orig: 149, 62
+  offset: 0, 0
+  index: -1
+face_standard_eyes_close
+  rotate: false
+  xy: 613, 1977
+  size: 140, 56
+  orig: 140, 56
+  offset: 0, 0
+  index: -1
+face_standard_eyes_half
+  rotate: false
+  xy: 234, 1901
+  size: 148, 76
+  orig: 148, 76
+  offset: 0, 0
+  index: -1
+face_standard_eyes_open
+  rotate: false
+  xy: 505, 1895
+  size: 148, 80
+  orig: 148, 80
+  offset: 0, 0
+  index: -1
+face_standard_mouth
+  rotate: false
+  xy: 199, 2008
+  size: 38, 25
+  orig: 40, 27
+  offset: 1, 1
+  index: -1
+face_surprise_eyebrows
+  rotate: false
+  xy: 302, 1979
+  size: 150, 54
+  orig: 150, 54
+  offset: 0, 0
+  index: -1
+face_surprise_eyes
+  rotate: false
+  xy: 804, 1893
+  size: 147, 81
+  orig: 147, 81
+  offset: 0, 0
+  index: -1
+face_surprise_mouth
+  rotate: false
+  xy: 165, 2009
+  size: 32, 24
+  orig: 34, 26
+  offset: 1, 1
+  index: -1
+face_surprise_sweat
+  rotate: true
+  xy: 2, 2027
+  size: 6, 15
+  orig: 9, 18
+  offset: 1, 1
+  index: -1
+flower
+  rotate: true
+  xy: 393, 1765
+  size: 128, 168
+  orig: 128, 168
+  offset: 0, 0
+  index: -1
+hair_B
+  rotate: false
+  xy: 1682, 1473
+  size: 345, 209
+  orig: 345, 209
+  offset: 0, 0
+  index: -1
+hair_LR
+  rotate: false
+  xy: 1096, 719
+  size: 399, 267
+  orig: 399, 267
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 151, 1778
+  size: 240, 117
+  orig: 240, 117
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 1360, 1476
+  size: 206, 320
+  orig: 208, 322
+  offset: 1, 1
+  index: -1
+hand_L_no_weapon
+  rotate: false
+  xy: 153, 1904
+  size: 79, 102
+  orig: 79, 102
+  offset: 0, 0
+  index: -1
+hand_R_flower
+  rotate: true
+  xy: 1404, 2
+  size: 715, 613
+  orig: 715, 613
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1145, 1497
+  size: 213, 205
+  orig: 213, 205
+  offset: 0, 0
+  index: -1
+leg_R
+  rotate: true
+  xy: 566, 363
+  size: 354, 836
+  orig: 354, 836
+  offset: 0, 0
+  index: -1
+ribbon_body_2
+  rotate: false
+  xy: 1186, 1882
+  size: 160, 91
+  orig: 160, 91
+  offset: 0, 0
+  index: -1
+ribbon_leg
+  rotate: false
+  xy: 2, 848
+  size: 688, 255
+  orig: 688, 255
+  offset: 0, 0
+  index: -1
+ribbon_leg_L
+  rotate: true
+  xy: 896, 1976
+  size: 57, 126
+  orig: 57, 126
+  offset: 0, 0
+  index: -1
+ribbon_leg_R
+  rotate: false
+  xy: 953, 1893
+  size: 102, 81
+  orig: 102, 81
+  offset: 0, 0
+  index: -1
+ring_L
+  rotate: true
+  xy: 276, 1105
+  size: 236, 502
+  orig: 236, 502
+  offset: 0, 0
+  index: -1
+ring_R
+  rotate: false
+  xy: 594, 1560
+  size: 549, 168
+  orig: 549, 168
+  offset: 0, 0
+  index: -1
+skirt_L
+  rotate: true
+  xy: 1024, 1976
+  size: 57, 280
+  orig: 57, 280
+  offset: 0, 0
+  index: -1
+skirt_R
+  rotate: false
+  xy: 1578, 1858
+  size: 285, 114
+  orig: 285, 114
+  offset: 0, 0
+  index: -1
+sleeve_L
+  rotate: true
+  xy: 2, 508
+  size: 338, 562
+  orig: 338, 562
+  offset: 0, 0
+  index: -1
+weapon_accessory
+  rotate: true
+  xy: 301, 1582
+  size: 177, 291
+  orig: 177, 291
+  offset: 0, 0
+  index: -1
+wing_L
+  rotate: false
+  xy: 1066, 1263
+  size: 248, 232
+  orig: 248, 232
+  offset: 0, 0
+  index: -1
+wing_R
+  rotate: false
+  xy: 1316, 1240
+  size: 386, 231
+  orig: 386, 231
+  offset: 0, 0
+  index: -1
+
+st_juno_angel2.png
+size: 1949,876
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_2
+  rotate: false
+  xy: 656, 146
+  size: 690, 728
+  orig: 690, 728
+  offset: 0, 0
+  index: -1
+hand_R_no_flower
+  rotate: true
+  xy: 1348, 159
+  size: 715, 599
+  orig: 715, 599
+  offset: 0, 0
+  index: -1
+skirt_B
+  rotate: true
+  xy: 2, 2
+  size: 872, 652
+  orig: 872, 652
+  offset: 0, 0
+  index: -1

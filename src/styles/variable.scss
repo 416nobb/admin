@@ -1,0 +1,67 @@
+//设置scss全局变量
+//scss 变量是$  
+//less变量是@
+
+//色库
+$synoa_color1: #E5421933;
+$synoa_color2: #8C7772ab;
+$synoa_color3: #633557ab;
+$synoa_color4: #BEABDDe3;
+$synoa_color5: #125F3321;
+$synoa_color6: #8f81b4ff;
+//对比色(字体/背景)
+///凝脂
+$ab_color_ningzhi_a: #696766;
+$ab_color_ningzhi_b: #f8f4ee;
+//珊瑚粉/蓝莓
+$ab_color_lanmei: #3E3F4C;
+$ab_color_shanhu: #BE98AA;
+
+//绿/米
+$ab_color_lv: #DBCCB1;
+$ab_color_mi: #94AA67;
+
+//酒红/浅黄
+$ab_color_jiuhong: #FCEBD5;
+$ab_color_qianhuang: #A37E7F;
+
+//十样锦/煌色
+$ab_color_jing: #f6c7b7;
+$ab_color_huang: #6d5541;
+
+//风信紫/夕岚
+$ab_color_fxza: #6e5749;
+$ab_color_fxzb: #d1bad6;
+
+$ab_color_xilana: #fffaff;
+$ab_color_xilanb: #ffc8de;
+
+//暮山紫/米汤娇
+$ab_color_fxza: #a4abd6;
+$ab_color_fxzb: #f1eee1;
+
+///////////////////////////////////////////////////////////////
+/// 全局设定
+///////////////////////////////////////////////////////////////
+
+
+
+
+//左侧菜单宽度
+$base-menu-width: 240px;
+//左侧菜单字体颜色
+$base-menu-logofont-color: $ab_color_lanmei;
+//左侧菜单背景颜色
+$base-menu-color: $ab_color_shanhu;
+
+//左侧菜单logo
+$menu-logo-height: 50px;
+
+//顶部导航高度
+$base-tabbar-height: 50px;
+
+
+
+/**
+******书签
+*/

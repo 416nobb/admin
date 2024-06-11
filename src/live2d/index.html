@@ -1,0 +1,101 @@
+<!doctype html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<script src="@/live2d/spine-player.js"></script>
+	<link rel="stylesheet" href="@/live2d/css/spine-player.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<style>
+	body {
+		background: gray;
+		margin: 0px;
+	}
+</style>
+
+<body>
+	<!-- <div id="container" style="width: 600px; height: 600px;"></div> -->
+	<div id="container-raptor" style="width: 640px; height: 600px;"></div>
+	<div>
+		<button id="walk">Walk</button>
+		<button id="jump">Jump</button>
+		<button id="roar">Roar</button>
+	</div>
+</body>
+<script>
+	// Creates a new spine player.The debugRender option enables
+	// rendering of viewports and padding for debugging purposes.
+	new spine.SpinePlayer("container", {
+		//juno-angel
+		// jsonUrl: "assets/st_juno_angel.json",
+		// atlasUrl: "assets/st_juno_angel.atlas",
+		//juno-bg
+		jsonUrl: "assets/mo_event27_chara_01_j.json",
+		atlasUrl: "assets/mo_event27_chara_01_j.atlas",
+		// animation: "run",
+		premultipliedAlpha: true,
+		backgroundColor: "#ffffff",
+		viewport: {
+			debugRender: true,
+		},
+		showControls: true,
+		viewport: {
+			x: -200,
+			y: 40,
+			width: 600,
+			height: 1400,
+			padLeft: "5%",
+			padRight: "5%",
+			padTop: "5%",
+			padBottom: "5%"
+		}
+	});
+
+	// Creates a new spine player with a transparent background,
+	// so content from the website shines through. Hides the controls.
+	// Instead, the user can control the animation via buttons.
+	var jsControlledPlayer = new spine.SpinePlayer("container-raptor", {
+		jsonUrl: "@/live2d/assets/mo_event27_chara_01_j.json",
+		atlasUrl: "@/live2d/assets/mo_event27_chara_01_j.atlas",
+
+		// jsonUrl: "assets/st_juno_angel.json",
+		// atlasUrl: "assets/st_juno_angel.atlas",
+		// animation: "walk",
+		showControls: false,
+		premultipliedAlpha: true,
+		backgroundColor: "#00000000",
+		viewport: {
+			x: -200,
+			y: 40,
+			width: 600,
+			height: 1400,
+			padLeft: "5%",
+			padRight: "5%",
+			padTop: "5%",
+			padBottom: "5%"
+		},
+		alpha: true,
+		defaultMix: 1,
+		success: (player) => {
+			// Register button click event handlers once the
+			// skeleton has been loaded successfully
+			document.getElementById("walk").addEventListener("click", event => {
+				jsControlledPlayer.setAnimation("walk", false); // set the walk animation to play once
+			});
+
+			document.getElementById("jump").addEventListener("click", event => {
+				jsControlledPlayer.setAnimation("jump", false); // set the jump animation to play once
+			});
+
+			document.getElementById("roar").addEventListener("click", event => {
+				jsControlledPlayer.setAnimation("roar", true); // set the jump animation to loop
+			});
+		}
+	});
+
+</script>
+</body>
+
+</html>
