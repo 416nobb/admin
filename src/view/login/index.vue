@@ -5,7 +5,7 @@
       <el-col :span="12" :xs="0">
         <div class="grid-content">
           <!-- juno -->
-    <img src="@/live2d/juno-angle.gif" alt=""  class="Limg" v-if=false>
+    
         </div>
       </el-col>
       <el-col :span="12" :xs="24" >
