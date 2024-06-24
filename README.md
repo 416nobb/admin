@@ -1,6 +1,6 @@
 # Vue 3 + Vite 后台管理系统
 
-待后端开发完会进行对接
+未完
 
 ## Recommended IDE Setup
 
